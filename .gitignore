@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+*.log
+
+# gros fichiers (à éviter sur GitHub)
+maps/*.osm.xml
+sumo/casablanca/*.net.xml
+
+# caches / editor
+.vscode/
+.DS_Store

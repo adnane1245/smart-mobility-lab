@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2026-01-07 13:05:33.676521 by randomTrips.py UNKNOWN
+<configuration>
+    <net-file value="sumo/casablanca/casablanca.net.xml"/>
+    <output-trip-file value="sumo/casablanca/casa20.trips.xml"/>
+    <prefix value="veh"/>
+    <trip-attributes value="departLane=&quot;best&quot; departSpeed=&quot;max&quot;"/>
+    <end value="600.0"/>
+    <period value="30.0"/>
+</configuration>
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <trip id="veh0" depart="0.00" from="379401941" to="-127908752#8" departLane="best" departSpeed="max"/>
+    <trip id="veh1" depart="30.00" from="-574583483#0" to="-422285300#2" departLane="best" departSpeed="max"/>
+    <trip id="veh2" depart="60.00" from="422305016#3" to="38786982#10" departLane="best" departSpeed="max"/>
+    <trip id="veh3" depart="90.00" from="588494634#0" to="-214858656" departLane="best" departSpeed="max"/>
+    <trip id="veh4" depart="120.00" from="-740850873#0" to="-1317419257#1" departLane="best" departSpeed="max"/>
+    <trip id="veh5" depart="150.00" from="-421377750#2" to="157186425#1-AddedOnRampEdge" departLane="best" departSpeed="max"/>
+    <trip id="veh6" depart="180.00" from="-128081014#10" to="-403450805#2" departLane="best" departSpeed="max"/>
+    <trip id="veh7" depart="210.00" from="38556668#5" to="206124909#0" departLane="best" departSpeed="max"/>
+    <trip id="veh8" depart="240.00" from="-421572486#0" to="294175802#3" departLane="best" departSpeed="max"/>
+    <trip id="veh9" depart="270.00" from="574578017#0" to="-1055698189#0" departLane="best" departSpeed="max"/>
+    <trip id="veh10" depart="300.00" from="566353219#6" to="4071555#2" departLane="best" departSpeed="max"/>
+    <trip id="veh11" depart="330.00" from="-582798843#0" to="-38556684#11" departLane="best" departSpeed="max"/>
+    <trip id="veh12" depart="360.00" from="719912089#4" to="-579806075#3" departLane="best" departSpeed="max"/>
+    <trip id="veh13" depart="390.00" from="-233926807#4" to="-248377986#5" departLane="best" departSpeed="max"/>
+    <trip id="veh14" depart="420.00" from="576351685#0" to="315384897#3" departLane="best" departSpeed="max"/>
+    <trip id="veh15" depart="450.00" from="574051441#0" to="422141583#7" departLane="best" departSpeed="max"/>
+    <trip id="veh16" depart="480.00" from="178215600#3" to="730260615" departLane="best" departSpeed="max"/>
+    <trip id="veh17" depart="510.00" from="-626052209#2" to="208450991#8" departLane="best" departSpeed="max"/>
+    <trip id="veh18" depart="540.00" from="575684574#1" to="34882152#2" departLane="best" departSpeed="max"/>
+    <trip id="veh19" depart="570.00" from="578818730#4" to="252543487#1" departLane="best" departSpeed="max"/>
+</routes>
